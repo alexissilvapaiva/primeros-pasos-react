@@ -1,6 +1,8 @@
 # Primeros pasos en _Git_ & _GitHub_ & _React_
   _GIT_  --> https://www.youtube.com/watch?v=suzMNqDQiyU&t=192s
  _REACT_ --> https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=10159s
+
+ ## agregando algo
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
